@@ -1,12 +1,12 @@
 % ------------------------------
 % Rock Paper Scissors Game
-cd('C:/Users/apurw/OneDrive/Desktop').
-['rps_game.pl'].
-start.
-play.
-rock.
-paper.
-scissors.
+% cd('C:/Users/apurw/OneDrive/Desktop').
+% ['rps_game.pl'].
+% start.
+% play.
+% rock.
+% paper.
+% scissors.
 % ------------------------------
 
 :- use_module(library(random)).
